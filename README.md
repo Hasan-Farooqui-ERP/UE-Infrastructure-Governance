@@ -20,4 +20,4 @@ I implemented a centralized accountability framework using **MS Planner** to bri
 * **SLA Restoration:** Improved and maintained 90%+ data accuracy within 6 weeks.
 * **Transparency:** 100% visibility for stakeholders on transformation milestones.
 
-# /process-maps/[View Detailed Process Transformation Maps](./process-maps/governance-flow.md)
+### [Process Transformation: From Email Trap to Managed Accountability](./process-maps/governance-flow.md)
