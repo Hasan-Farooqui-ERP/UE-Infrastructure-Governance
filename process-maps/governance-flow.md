@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph "AS-IS: THE EMAIL TRAP"
     A[SCADA Support Email] --> B{Shared Inbox}
@@ -20,4 +21,4 @@ graph TD
     end
 
     style G fill:#f96,stroke:#333
-    style P fill:#9f9,stroke:#333
+    style P fill:#9f9,stroke:#333```
